@@ -1,4 +1,4 @@
-                     👋 Hi, I’m Shreyanshi Rathi
+- **👋 Hi, I’m Shreyanshi Rathi**
 - 👀 I’m interested in Content Creation , Mentoring and Coding .
 - 🌱 I’m currently learning MERN Stack and DSA .
 - 💞️ I’m looking to collaborate on ...
